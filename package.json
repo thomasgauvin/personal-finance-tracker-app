@@ -1,0 +1,13 @@
+{
+  "name": "personalfinancetracker-app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "sqlite": "^4.0.25",
+    "sqlite3": "^5.0.2"
+  }
+}
