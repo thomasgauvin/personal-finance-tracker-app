@@ -4,6 +4,9 @@ This project is a simple financial account tracker with manual entry. It is a pr
 
 I wrote an accompanying blog post noting the benchmarks of such a solution here: [Building a micro web application using Azure Functions and SQLite](https://blog.thomasgauvin.com/micro-web-application-azure-functions-sqlite)
 
+![](./2022-03-13-23-39-52.png)
+
+
 ## Deployment
 
 *Deployment is slightly complicated by the fact that the NPM library SQLite3 must download the correct bindings to access the file system. This means that the `npm install` step during build
